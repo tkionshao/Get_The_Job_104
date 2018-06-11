@@ -1,0 +1,101 @@
+Somthing Wrong in single job page.
+This is happened at link 6
+Link as : http://www.104.com.tw/job/?jobno=64iuo&jobsource=n104bank1
+2018-06-11 14:11:26.649719
+
+Somthing Wrong in single job page.
+This is happened at link 8
+Link as : http://www.104.com.tw/job/?jobno=5yl1d&jobsource=n104bank1
+2018-06-11 14:29:22.371250
+
+Somthing Wrong in single job page.
+This is happened at link 3
+Link as : http://www.104.com.tw/job/?jobno=4no1y&jobsource=n104bank1
+2018-06-11 14:38:26.496866
+
+Somthing Wrong in single job page.
+This is happened at link 5
+Link as : http://www.104.com.tw/job/?jobno=626hr&jobsource=n104bank1
+2018-06-11 14:59:25.000998
+
+Somthing Wrong in single job page.
+This is happened at link 1
+Link as : http://www.104.com.tw/job/?jobno=61dmj&jobsource=n104bank1
+2018-06-11 15:04:10.880373
+
+Somthing Wrong in single job page.
+This is happened at link 4
+Link as : http://www.104.com.tw/job/?jobno=56t2j&jobsource=n104bank1
+2018-06-11 15:12:22.249954
+
+Somthing Wrong in single job page.
+This is happened at link 19
+Link as : http://www.104.com.tw/job/?jobno=67pwg&jobsource=n104bank1
+2018-06-11 15:19:42.555849
+
+    Somthing Wrong in single job page.
+    This is happened at link 9
+    Link as : http://tutor.104.com.tw/trans_job_to_case.cfm?frompage=joblist&jobno=10473054&tfrom=joblist&utm_source=104PC&utm_medium=JobList&utm_campaign=104Joblist_PC
+    2018-06-11 15:29:15.346579
+
+Somthing Wrong in single job page.
+This is happened at link 5
+Link as : http://www.104.com.tw/job/?jobno=63ysm&jobsource=n104bank1
+2018-06-11 16:15:09.323235
+
+Somthing Wrong in single job page.
+This is happened at link 17
+Link as : http://www.104.com.tw/job/?jobno=5u9lk&jobsource=n104bank1
+2018-06-11 16:16:05.706186
+
+Somthing Wrong in single job page.
+This is happened at link 5
+Link as : http://www.104.com.tw/job/?jobno=5mnd9&jobsource=n104bank1
+2018-06-11 16:16:36.399609
+
+    Somthing Wrong in single job page.
+    This is happened at link 2
+    Link as : http://www.104.com.tw/job/?jobno=64748&jobsource=n104bank1
+    2018-06-11 16:50:47.284787
+
+empty
+    Somthing Wrong in single job page.
+    This is happened at link 2
+    Link as : http://www.104.com.tw/job/?jobno=3yguo&jobsource=n104bank1 content
+    2018-06-11 17:09:53.444925
+
+huntheader
+    Somthing Wrong in single job page.
+    This is happened at link 0
+    Link as : http://hunter.104.com.tw/104hunter.jsp?trc=104p&urlpage=job_description&jobno=9522948
+    2018-06-11 17:12:51.717240
+
+empty
+    Somthing Wrong in single job page.
+    This is happened at link 14
+    Link as : http://www.104.com.tw/job/?jobno=5e090&jobsource=n104bank1
+    2018-06-11 17:13:58.324107
+
+    Somthing Wrong in single job page.
+    This is happened at link 15
+    Link as : http://tutor.104.com.tw/trans_job_to_case.cfm?frompage=joblist&jobno=10281453&tfrom=joblist&utm_source=104PC&utm_medium=JobList&utm_campaign=104Joblist_PC
+    2018-06-11 17:21:51.601249
+
+content in skill
+    Somthing Wrong in single job page.
+    This is happened at link 6
+    Link as : http://www.104.com.tw/job/?jobno=65uod&jobsource=n104bank1
+    2018-06-11 17:27:29.621381
+
+content in skill
+    Somthing Wrong in single job page.
+    This is happened at link 2
+    Link as : http://www.104.com.tw/job/?jobno=5t56i&jobsource=n104bank1
+    2018-06-11 17:30:16.336830
+
+content in skill
+    Somthing Wrong in single job page.
+    This is happened at link 3
+    Link as : http://www.104.com.tw/job/?jobno=4rhpw&jobsource=n104bank1
+    2018-06-11 17:33:28.686665
+
