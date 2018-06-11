@@ -9,4 +9,6 @@ When Python code is running, something wrong will be showed on the console like 
 > 
 We could find log in file Errorlog.
 >![](https://raw.githubusercontent.com/tkionshao/Get_The_Job_104/master/example/Screen%20Shot%202018-06-11%20at%202.13.54%20PM.png)
-> Columns: 'name', 'company', 'address', 'link', 'content', 'update
+> 
+> 
+>Columns: 'name', 'company', 'address', 'link', 'content', 'update
