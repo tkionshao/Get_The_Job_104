@@ -1,4 +1,4 @@
-# Get The job !
+# Get The Job !
 This is an important things to everyone in the world.
 1. using one url to create a sequece of parsing by the python code.
 2. If there is any Error, it will be stored in Errorlog.txt with url.
